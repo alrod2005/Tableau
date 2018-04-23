@@ -1,0 +1,1 @@
+Alexander Rodriguez3/18/18This folder Includes: 1. Prosper Loan Data that was used to create visualizations.2. Prosper Loan Write up that includes design choices.3. 3 Tableau stories
